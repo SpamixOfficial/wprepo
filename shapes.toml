@@ -1,0 +1,7 @@
+name = "Shapes"
+description = "Green shapes! Beautiful! Source: https://unsplash.com/photos/a-computer-generated-image-of-an-abstract-design-C7lsAjG15GM"
+author = ["Pawel Czerwinski"]
+maintainer = "SpamixOfficial"
+thumbnail_url = "https://raw.githubusercontent.com/SpamixOfficial/wprepo/refs/heads/main/imgs/shapes-unsplash.png"
+download_url = "https://raw.githubusercontent.com/SpamixOfficial/wprepo/refs/heads/main/imgs/shapes-unsplash.png"
+sizes = ["3:2"]
