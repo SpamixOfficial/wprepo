@@ -1,5 +1,6 @@
 name = "Autumn Vibes"
-description = "Giving you those autumn vibes, isn't it? Source: https://www.reddit.com/r/wallpapers/comments/1gnciue/a_collection_of_autumn_vibes_21x9_3440x1440"
+description = "Giving you those autumn vibes, isn't it?"
+source = "https://www.reddit.com/r/wallpapers/comments/1gnciue/a_collection_of_autumn_vibes_21x9_3440x1440"
 author = ["u/Silver-Spread1408"]
 maintainer = "SpamixOfficial"
 thumbnail_url = "https://i.imgur.com/e9ryGyO.jpeg"
